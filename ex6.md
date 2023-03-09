@@ -1,0 +1,1 @@
+This is new file for exercise 6 Renaming and Deleting a File.
